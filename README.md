@@ -1,9 +1,10 @@
-# 🚧 WIP 🚧
-
-
 ## 👋 Hello there
 
-I'm Matthew, a recent summa cum laude graduated from Oregon State Universtiy <!--- (Go Beavs) --> who double majored in computer science and mathematical economics with a minor in math.
+I'm Matthew, a recent summa cum laude graduated from Oregon State University <!--- (Go Beavs) --> who double majored in computer science and mathematical economics with a minor in math.
+Through [MECOP](https://www.mecopinc.org/) I've had a 6-month internship with [Collins Aerospace](https://www.collinsaerospace.com/) and an 11-month internship with [ConMet](https://conmet.com/) working on the (now nonexistent) eMobility team.
+Both internships were primarily focused on embedded development and DevOps.
+
+Currently in the process of finding a job and working on a portfolio website to further my web dev skills and learn React. 
 
 
 ### 🚧 Recent projects
@@ -15,24 +16,6 @@ I'm Matthew, a recent summa cum laude graduated from Oregon State Universtiy <!-
 
 ### 📭 Connect with me
 
-- Follow me on [LinkedIn](http://linkedin.com/in/matthew-beitler)
-- Email me at [matthewbsoftware@gmail.com](mailto:matthewbsoftware@gmail.com)
-
-<!--
-Ideas
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-Profession & Current Role: (e.g., Software Engineer, Student, Data Scientist, etc.)
-Top Skills & Technologies: (e.g., Python, JavaScript, React, Docker, etc.)
-Favorite or Featured Projects: (any repos you want to highlight, with a short description)
-About/Short Bio: (a brief intro—what drives you, your interests, etc.)
-Fun Facts or Hobbies: (e.g., hobbies, favorite books, fun facts)
--->
+- Follow me on [LinkedIn](http://linkedin.com/in/matthew-beitler).
+- Email me at [matthewbsoftware@gmail.com](mailto:matthewbsoftware@gmail.com).
+- View my [LeetCode](https://leetcode.com/u/matthewbsoftware/).
